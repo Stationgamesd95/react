@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "firstname": "Greg",
+    "lastname": "Winston",
+    "email": "gregwinston@example.com",
+    "phone": "837-794-7494",
+    "age":"32"
+  },
+  {
+    "id": 2,
+    "firstname": "Tori",
+    "lastname": "Bradford",
+    "email": "toribradford@example.com",
+    "phone": "639-279-9274",
+    "age":"26"
+  },
+  {
+    "id": 3,
+    "firstname": "Luke",
+    "lastname": "Jefferson",
+    "email": "lukejefferson@example.com",
+    "phone": "920-246-2894",
+    "age":"28"
+  }
+  
+]
